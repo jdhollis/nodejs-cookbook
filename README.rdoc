@@ -1,6 +1,6 @@
 = DESCRIPTION:
 
-Installs Node.JS from source.
+Installs Node.js from source.
 
 Forked from https://github.com/rohansingh/cookbooks which itself was forked from https://github.com/mdxp/cookbooks.
 
@@ -34,9 +34,9 @@ Include the npm recipe to install npm:
 
 = LICENSE and AUTHOR:
 
-Author:: Marius Ducea (marius@promethost.com)
+Author:: J.D. Hollis (http://densityofspace.com)
 
-Copyright:: 2010, Promet Solutions
+Copyright:: 2011, J.D. Hollis
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
